@@ -1,0 +1,38 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Victoria M. Ng
+tagline:             Curious and Inquisive: Data Science Blog
+url:                 https://github.com/victoriang555/victoriang555.github.io
+paginate:            2
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Victoria M. Ng
+  url:               https://twitter.com/victoriang555
+  email:             victoria.ng555@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/victoriang555.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Page List
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/index.html'
