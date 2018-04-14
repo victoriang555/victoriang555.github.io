@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Victoria M. Ng
-tagline:             Curious and Inquisive
-url:                 https://victoriang555.github.io
+title:               Z.W. Miller
+tagline:             A Moderately Okay Data Science Blog
+url:                 http://zwmiller.com
 paginate:            2
 baseurl:             ""
 
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Victoria M. Ng
-  url:               https://twitter.com/victoriang555
-  email:             victoria.ng555@gmail.com
+  name:              Zach Miller
+  url:               https://twitter.com/zaglamir
+  email:             zach@thisismetis.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/victoriang555.github.io
+  repo:              https://github.com/zwmiller
 
 # Gems
 gems:
