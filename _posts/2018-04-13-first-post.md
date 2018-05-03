@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Takeways from exploring a messy dataset
+title: Takeaways from exploring a messy dataset
 ---
 
-# Hi there 
 
 I'm running on 5hrs of sleep per night. For some, that's the norm. Or maybe even a generous amount. For me, that's torture. I normally run on 8. And no, I don't drink coffee or tea, nor do I plan to.
 
@@ -21,7 +20,6 @@ Here are the pluses:
 These are what caused me headaches:
 1. The execution of code is very order-dependent
 2. The kernel would keep crashing and force me to re-run my notebook
-3.
 
 What I did to try to alleviate my headache:
 Installed the ipython nbextension, which constructs a table of contents for a notebook. That allowed me to easily view all of the sections that I specified using markdown style headers.
@@ -31,11 +29,3 @@ What I'd like to see added  if it doesn't already exist:
 2. Collapsing of sections of the notebook.
 3. Have a way to specify which cells to run, outside of run above or run below.
 I look forward to not having to be dependent on jupyter-notebook for my projects. That should hopefully start next week.  
-
-So what are the best ways   
-
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/jekyll/jekyll/blob/master/README.markdown):
-
-> Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
-
-It's an immensely useful tool. Find out more by [visiting the project on GitHub](https://github.com/jekyll/jekyll).

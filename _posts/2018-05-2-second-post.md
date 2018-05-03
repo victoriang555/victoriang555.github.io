@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lessons Learned from Applying Machine Learning to Amazon's Pricing Structure
---
+---
 
 ### Why Amazon?
 
