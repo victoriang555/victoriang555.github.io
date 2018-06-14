@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Lessons Learned from Applying Machine Learning to Amazon's Pricing Structure
+title: Medical Attention Information Assistance- Predictive Perspective
 ---
 
-### Should I SeeK Medical Attention?
+### Should I Seek Medical Attention?
 
 Have you ever searched webmd or other related websites to determine whether your
 aches and pains were doctor's visit worthy? I have! If you have, have you noticed
